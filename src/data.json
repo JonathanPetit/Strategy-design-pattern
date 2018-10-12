@@ -1,0 +1,365 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote the Sinead O`Connor hit Nothing Compares 2 U?",
+        "correct_answer": "Prince",
+        "incorrect_answers": [
+          "Michael Jackson",
+          "Cameo",
+          "Rick James"
+        ]
+      },
+      {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who played Agent Fox Mulder in the TV sci-fi drama The X-Files?",
+        "correct_answer": "David Duchovny",
+        "incorrect_answers": [
+          "Gillian Anderson",
+          "Robert Patrick",
+          "Mitch Pileggi"
+        ]
+      },
+      {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the area of a circle with a diameter of 20 inches if pi= 3.1415?",
+        "correct_answer": "314.15 Inches",
+        "incorrect_answers": [
+          "380.1215 Inches",
+          "3141.5 Inches",
+          "1256.6 Inches"
+        ]
+      },
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Spitfire L.F. Mk IX had what engine?",
+        "correct_answer": "Merlin 66",
+        "incorrect_answers": [
+          "Griffon 65",
+          "Merlin 50",
+          "Merlin X"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the frontman of the band 30 Seconds to Mars?",
+        "correct_answer": "Jared Leto",
+        "incorrect_answers": [
+          "Gerard Way",
+          "Matthew Bellamy",
+          "Mike Shinoda"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "This movie contains the quote, I love the smell of napalm in the morning!",
+        "correct_answer": "Apocalypse Now",
+        "incorrect_answers": [
+          "Platoon",
+          "The Deer Hunter",
+          "Full Metal Jacket"
+        ]
+      },
+      {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "An organic compound is considered an alcohol if it has what functional group?",
+        "correct_answer": "Hydroxyl",
+        "incorrect_answers": [
+          "Carbonyl",
+          "Alkyl",
+          "Aldehyde"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the capital of Jamaica?",
+        "correct_answer": "Kingston",
+        "incorrect_answers": [
+          "Rio de Janeiro",
+          "Dar es Salaam",
+          "Kano"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the name given to Android 4.3?",
+        "correct_answer": "Jelly Bean",
+        "incorrect_answers": [
+          "Lollipop",
+          "Nutella",
+          "Froyo"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many countries does the United States share a land border with?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "category": "Animals",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What scientific suborder does the family Hyaenidae belong to?",
+        "correct_answer": "Feliformia",
+        "incorrect_answers": [
+          "Haplorhini",
+          "Caniformia",
+          "Ciconiiformes"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the anime, Full Metal Panel, who is Kanames best friend?",
+        "correct_answer": "Kyoko Tokiwa",
+        "incorrect_answers": [
+          "Melissa Mao",
+          "Ren Mikihara",
+          "Teletha Tessa Testarossa"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+          "C#",
+          "Python",
+          "PHP"
+        ]
+      },
+      {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The name of Junko Enoshimas imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+        "correct_answer": "Mukuro Ikusaba",
+        "incorrect_answers": [
+          "Ryota Mitarai",
+          "Ultimate Imposter",
+          "Komaru Naegi"
+        ]
+      },
+      {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What country is Cory in the House set in?",
+        "correct_answer": "The United States of America",
+        "incorrect_answers": [
+          "Canada",
+          "Venezuala",
+          "England"
+        ]
+      },
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was Napoleon Bonaparte name before he changed it?",
+        "correct_answer": "Napoleone di Buonaparte",
+        "incorrect_answers": [
+          "Naapolion van Bonijpaart",
+          "Napoleon do Boaparte",
+          "Napoleona de Buenoparte"
+        ]
+      },
+      {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+        "correct_answer": "Justinian I",
+        "incorrect_answers": [
+          "Constantine IV",
+          "Arcadius",
+          "Theodosius the Great"
+        ]
+      },
+      {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the song by Beyonce and Alejandro Fernandez released in 2007?",
+        "correct_answer": "Amor Gitano",
+        "incorrect_answers": [
+          "La ultima vez",
+          "Rocket",
+          "Hasta Dondes Estes"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the second-largest city in Lithuania?",
+        "correct_answer": "Kaunas",
+        "incorrect_answers": [
+          "Panevėžys",
+          "Vilnius",
+          "Klaipėda"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the novel Lord of the Rings, how many rings of power were given to the race of man?",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "5",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What year was Super Mario Bros. released?",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1983",
+          "1987",
+          "1986"
+        ]
+      },
+      {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following tabletop games is the oldest?",
+        "correct_answer": "Go",
+        "incorrect_answers": [
+          "Chess",
+          "Mahjong",
+          "Shogi"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Paper Mario: The Thousand Year Door, what is Hooktail weakness?",
+        "correct_answer": "The Sound of Crickets",
+        "incorrect_answers": [
+          "Attacks from Koopas",
+          "The Ice Storm Item",
+          "The Hammer"
+        ]
+      },
+      {
+        "category": "Vehicles",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which Audi does not use Haldex based all wheel drive system?",
+        "correct_answer": "Audi A8",
+        "incorrect_answers": [
+          "Audi TT",
+          "Audi S3",
+          "Audi A3"
+        ]
+      },
+      {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the plane curve proposed by Descartes to challenge Fermat extremum-finding techniques called?",
+        "correct_answer": "Folium of Descartes",
+        "incorrect_answers": [
+          "Elliptic Paraboloid of Descartes",
+          "Cartesian Coordinates",
+          "Descarte Helicoid"
+        ]
+      },
+      {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Where is the Gluteus Maximus muscle located?",
+        "correct_answer": "Butt",
+        "incorrect_answers": [
+          "Arm",
+          "Head",
+          "Torso"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which character does the player play as in the video game Bastion",
+        "correct_answer": "The Kid",
+        "incorrect_answers": [
+          "Rucks",
+          "Zulf",
+          "Zia"
+        ]
+      },
+      {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the capital of Lithuania?",
+        "correct_answer": "Vilnius",
+        "incorrect_answers": [
+          "Tallinn",
+          "Helsinki",
+          "Riga"
+        ]
+      },
+      {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who provided a majority of the songs and lyrics for Spirit Stallion of the Cimarron?",
+        "correct_answer": "Bryan Adams",
+        "incorrect_answers": [
+          "Smash Mouth",
+          "Oasis",
+          "Air Supply"
+        ]
+      },
+      {
+        "category": "Entertainment: Comics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following rings from the DC Comics Lantern Corps are classified as Parasitic?",
+        "correct_answer": "Indigo (Compassion)",
+        "incorrect_answers": [
+          "Green (Willpower)",
+          "White (Life)",
+          "Yellow (Fear)"
+        ]
+      }
+    ]
+  }
